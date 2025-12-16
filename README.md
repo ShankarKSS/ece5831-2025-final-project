@@ -1,6 +1,6 @@
 # ece5831-2025-final-project
 
-## Presenstation and presentation video
+## Presentation and presentation video
 https://drive.google.com/drive/folders/13Q4uuToWTHBrDypVmL-jM2eHRLLQGUhd?usp=share_link
 
 ## report
